@@ -1,6 +1,6 @@
 # superpy
 
-Im not sure if there is something noteworthy here because the program imostly consists of simple logic. But Ill try: 
+Im not sure if there is something noteworthy here because the program mostly consists of simple logic. But Ill try: 
 
 1: I think I had an unconventional way of using argparse, I did it so I was able to have more control of the style and the way errors are shown to the user. 
 To be able to have this control or 'to solve the problem' I hardcoded the values in an list to compare them later on with the user input. 
